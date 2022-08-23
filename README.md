@@ -5,4 +5,6 @@ Repositório: Serviço de persistência
 
 Submódulo adcionado ao repositório: Lab_engenharia_software_portifolio 
 
-Teste update submódulo
+Teste update submódulo.
+
+Linha de teste 2.
